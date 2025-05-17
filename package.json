@@ -27,6 +27,7 @@
     "@ai-sdk/deepseek": "^0.2.14",
     "@types/node": "^22.15.18",
     "mastra": "^0.6.3-alpha.6",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "wrangler": "^4.15.2"
   }
 }
